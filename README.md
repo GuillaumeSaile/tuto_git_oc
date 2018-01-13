@@ -1,2 +1,2 @@
 # tuto_git_oc
-Une demo du cours sur git et github d'Openclassrooms
+Une demo du cours sur git et github d'Openclassrooms qui se passe bien
